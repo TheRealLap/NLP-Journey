@@ -1,0 +1,1 @@
+THe purpose of this is to build a simple chatbot using lock language model
